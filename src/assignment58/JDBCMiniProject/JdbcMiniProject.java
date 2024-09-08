@@ -204,5 +204,4 @@ public class JdbcMiniProject
 			con.close();
 		}
 	}
-
 }
